@@ -1,6 +1,6 @@
-- [ ] Mass balances of ligand formation pathway
-- [ ] Create bw-readable excel for the foreground activities
-- [ ] Add to excel: CuI catalysts
-- [ ] Add to excel: ligand
-- [ ] Solve LCA
+- [x] Mass balances of ligand formation pathway
+- [x] Create bw-readable excel for the foreground activities
+- [?] Add to excel: CuI catalysts
+- [x] Add to excel: ligand
+- [x] Solve LCA
 - [ ] Decide if further refinement is required
