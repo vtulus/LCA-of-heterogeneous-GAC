@@ -130,4 +130,4 @@ src/
 examples/
 
 # Allow tracking
-# add pattern starting with !
+!/data/processed
