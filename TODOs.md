@@ -3,4 +3,4 @@
 - [?] Add to excel: CuI catalysts
 - [x] Add to excel: ligand
 - [x] Solve LCA
-- [ ] Decide if further refinement is required
+- [x] Decide if further refinement is required: Nope.
