@@ -1,0 +1,8 @@
+> This repository hosts the Life Cycle Assessment (LCA) calculations for the Nature article ["Geminal-atom catalysis for cross-coupling"](https://doi.org/10.1038/s41586-023-06529-z).  
+>
+> Abstract:  
+> Single-atom catalysts (SACs) have well-defined active sites, making them of potential interest for organic synthesis. However, the architecture of these mononuclear
+metal species stabilized on solid supports may not be optimal for catalysing complex molecular transformations owing to restricted spatial environment and electronic
+quantum states. Here we report a class of heterogeneous geminal-atom catalysts (GACs), which pair single-atom sites in specific coordination and spatial proximity.
+Regularly separated nitrogen anchoring groups with delocalized π-bonding nature in a polymeric carbon nitride (PCN) host permit the coordination of Cu geminal sites with a ground-state separation of about 4 Å at high metal density. The adaptable coordination of individual Cu sites in GACs enables a cooperative bridge-coupling pathway through dynamic Cu–Cu bonding for diverse C–X (X = C, N, O, S) cross-couplings with a low activation barrier. In situ characterization and quantum-theoretical studies show that such a dynamic process for cross-coupling is triggered by the adsorption of two different reactants at geminal metal sites, rendering homo-coupling unfeasible. These intrinsic advantages of GACs enable the assembly of heterocycles with several coordination sites, sterically congested scaffolds and pharmaceuticals with highly specific and stable activity. Scale-up experiments and
+translation to continuous flow suggest broad applicability for the manufacturing of fine chemicals.
