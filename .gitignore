@@ -127,6 +127,7 @@ dmypy.json
 calcs/
 viz_edits/
 src/
+examples/
 
 # Allow tracking
-# add pattern starting with !
+!/data/processed
